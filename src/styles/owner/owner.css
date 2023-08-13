@@ -1,0 +1,56 @@
+.OwnerOffer {
+    margin-bottom: 90px;
+}
+
+/* START NAVBAR STYLE  */
+.navbar {
+    background-color: "#dfe4ea" !important;
+    border-bottom: 2px solid #ced6e0 
+}
+.navbar-brand .logo{
+    width:  100px;
+    overflow: hidden;
+    display: inline-block;
+}
+.navbar-brand .logo img{
+    max-width: 100%;
+    max-height: 100%;
+}
+/* END NAVBAR STYLE  */
+.offer {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .offer-div {
+    width: 70%;
+    background: #fff;
+    border-radius: 10px;  
+  }
+  
+  .offer-div form {
+    padding: 30px;
+  }
+  
+  .offer-div #login-title {
+    text-align: center;
+    color: #555555;
+    display: block;
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-top: 20px;
+  }
+  
+  .offer-div form {
+    width: 100%;
+  }
+  
+  .submit-btn {
+    font-size: 16px;
+    color: #fff;
+    background: #333333;
+    border-radius: 27px;
+    min-width: 150px;
+    height: 55px;
+  }
